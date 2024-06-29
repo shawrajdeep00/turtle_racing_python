@@ -16,8 +16,8 @@ Welcome to the Turtle Racing project! This Python project simulates a turtle rac
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/turtle-racing.git
-   cd turtle-racing
+   git clone https://github.com/shawrajdeep00/turtle_racing_python.git
+   cd turtle_racing_python
    ```
 
 2. **Run the Script**:

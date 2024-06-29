@@ -7,6 +7,7 @@ Welcome to the Turtle Racing project! This Python project simulates a turtle rac
 - `turtleRacing.py`: The main Python script that runs the turtle race.
 - `final_output_race.png`: Screenshot of the race's final output.
 - `outputWindow_screenrecord.webm`: Screen recording of the turtle race.
+- `output_in_execution.png`: Screenshot of the race's under in progress.
 
 ## Requirements
 

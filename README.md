@@ -183,5 +183,7 @@ Key functions used in this project include:
 ## Future prospects
 Implementing the Turtle Racing project is a fun and engaging way to practice programming fundamentals. It helps you get comfortable with key concepts like loops, conditionals, and functions, while also introducing you to the `turtle` graphics module in Python. By working on this project, you’ll also learn how to handle user input and use random number generation to create dynamic outcomes. In real life, these skills can open doors to more complex projects, like building graphical user interfaces, animations, or even simple games. This project not only strengthens your coding abilities but also sparks creativity, making it a great stepping stone for future development endeavors.
 
-
-By following the steps and explanations provided, you can easily understand and recreate the turtle racing project from scratch. Enjoy the race!
+## Conclusion
+Developers are asked to use this block of code and this project according to their own project needs. Changes are always welcomed.
+For this project, by following the steps and explanations provided, you can easily understand and recreate the turtle racing project from scratch. Enjoy the race!
+Thank you!
